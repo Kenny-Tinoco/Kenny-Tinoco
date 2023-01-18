@@ -1,6 +1,9 @@
-Hi, I’m @Kenny-Tinoco
+Hi, my name is Kenny, I'm from Nicaragua and student.
 
-<!---
-Kenny-Tinoco/Kenny-Tinoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Knowledge
+
+* Using Kubernetes in Production since 2016
+* AWS, Terraform, Docker, all the cloud stuff :) 
+* Critical thinking, decision-making and problem solving skills
+* Some Python coding
+* Special skills and experience in fast growing startups.
