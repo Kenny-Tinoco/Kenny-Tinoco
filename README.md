@@ -1,12 +1,11 @@
-Hi, my name is Kenny, I'm from Nicaragua and i'm student.
+Hi, my name is Kenny, i'm from Nicaragua and i'm student.
 
 ## Aptitudes
 
+* Critical thinking
 * Structured programming
 * Object-Oriented programming
 * Some test knowledge
-* Rational Unified Process
-* UML
 
 ## Knowledge
 * Symfony (PHP, MySql, Doctrine, PHPUnit) 
@@ -14,3 +13,4 @@ Hi, my name is Kenny, I'm from Nicaragua and i'm student.
 * Android studio (Java, Kotlin)
 * Markdown
 * PlantUML
+* Latex
