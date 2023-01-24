@@ -7,7 +7,7 @@ Hi, my name is Kenny, i'm from Nicaragua and i'm student.
 * Object-Oriented programming
 * Some test knowledge
 
-## Knowledge
+## Tech knowledge
 * Symfony (PHP, MySql, Doctrine, PHPUnit) 
 * .NET framework (C#, SqlServer)
 * Android studio (Java, Kotlin)
