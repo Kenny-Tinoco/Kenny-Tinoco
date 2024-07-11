@@ -8,9 +8,8 @@ Hi, my name is Kenny, i'm from Nicaragua and i'm student.
 * Some test knowledge
 
 ## Tech knowledge
+* .NET (C#, EFCore, XUnit, PostgreSQL)
 * Symfony (PHP, MySql, Doctrine, PHPUnit) 
-* .NET framework (C#, SqlServer)
-* Android studio (Java, Kotlin)
 * Markdown
 * PlantUML
 * Latex
