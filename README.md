@@ -1,5 +1,3 @@
-Hi, my name is Kenny, i'm from Nicaragua and i'm student.
-
 ## Aptitudes
 
 * Critical thinking
@@ -8,8 +6,8 @@ Hi, my name is Kenny, i'm from Nicaragua and i'm student.
 * Some test knowledge
 
 ## Tech knowledge
-* .NET (C#, EFCore, XUnit, PostgreSQL)
-* Symfony (PHP, MySql, Doctrine, PHPUnit) 
+* .NET (C#, EF Core, XUnit, PostgreSQL)
+* Symfony (PHP, Doctrine, PHPUnit, MySql) 
 * Markdown
 * PlantUML
 * Latex
